@@ -1,0 +1,6 @@
+python-twitter
+scipy
+numpy
+sklearn
+nltk
+bokeh
