@@ -4,3 +4,4 @@ numpy
 sklearn
 nltk
 bokeh
+lda
